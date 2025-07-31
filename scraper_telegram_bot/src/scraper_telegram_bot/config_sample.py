@@ -1,0 +1,5 @@
+TELEGRAM_TOKEN = "TU_WPISZ_TOKEN"
+CHAT_ID = "TU_WPISZ_CHAT_ID"
+DATA_FILE = "ogloszenia.json"
+LOG_FILE = "ogloszenia_log.txt"
+SENT_LOG_FILE = "wyslane_ogloszenia.log"

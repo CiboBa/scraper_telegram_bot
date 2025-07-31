@@ -1,0 +1,7 @@
+src/scraper_telegram_bot/config.py
+src/scraper_telegram_bot/data/
+*.json
+*.log
+.env
+.venv/
+__pycache__/
